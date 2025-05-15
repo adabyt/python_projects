@@ -1,1 +1,55 @@
+# macOS
 .DS_Store
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code project files
+.vscode/
+
+# Environment variable files
+.env
+.env.*
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache
+
+# MyPy and other static analysis
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Test output
+.tox/
+.nox/
+.pytest_cache/
+
+# Egg info
+*.egg-info/
+*.egg
+
+# Local settings or IDEs
+.idea/
+*.swp
