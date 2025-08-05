@@ -4,7 +4,7 @@ A visually engaging command-line dice rolling program. You can roll any number o
 
 ---
 
-## 🎲 Features
+## Features
 
 - Rolls 1 or more dice with random results (1–6)
 - Displays beautiful ASCII art for each dice face
@@ -14,7 +14,7 @@ A visually engaging command-line dice rolling program. You can roll any number o
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the Repository
 
@@ -31,7 +31,7 @@ python dice_roller.py
 
 ---
 
-## 🖼️ Example Output
+## Example Output
 
 ```plaintext
 How many dice will you roll?: 3
@@ -42,19 +42,19 @@ How many dice will you roll?: 3
 │        ●  │ │     ●     │ │  ●     ●  │
 └───────────┘ └───────────┘ └───────────┘
 
-🎯 Total rolled: 10
+Total rolled: 10
 ```
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 dice-roller/
@@ -64,19 +64,13 @@ dice-roller/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project was inspired by and adapted from the [BroCode Python tutorials](https://www.youtube.com/c/BroCodez), which provided engaging guidance for beginner Python CLI projects.
