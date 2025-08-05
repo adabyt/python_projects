@@ -12,7 +12,7 @@ The program validates user inputs, including date format and priority values, an
 
 ---
 
-## 🔧 Features
+## Features
 
 - Add tasks with validated due dates and priorities
 - View tasks in a neatly formatted table sorted by due date
@@ -22,7 +22,7 @@ The program validates user inputs, including date format and priority values, an
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -37,7 +37,7 @@ python task_manager.py
 
 ---
 
-## 🖼️ Example Menu
+## Example Menu
 
 ```plaintext
 1. Add a task
@@ -49,14 +49,14 @@ python task_manager.py
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 task-manager/
@@ -66,13 +66,6 @@ task-manager/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
