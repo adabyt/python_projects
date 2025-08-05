@@ -11,7 +11,7 @@ The program uses Python’s built-in `datetime` module to compare due dates with
 
 ---
 
-## 🔧 Features
+## Features
 
 - Add books with due dates
 - Automatically flag books as overdue or not
@@ -23,7 +23,7 @@ The program uses Python’s built-in `datetime` module to compare due dates with
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -38,7 +38,7 @@ python library_manager.py
 
 ---
 
-## 🖼️ Example Menu
+## Example Menu
 
 ```plaintext
 1. Add a book
@@ -50,14 +50,14 @@ python library_manager.py
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 library-manager/
@@ -67,7 +67,7 @@ library-manager/
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Dates must be entered in the format: `YYYY-MM-DD` (e.g. 2025-04-25).
 - Overdue books are detected by comparing their due date with the current system date.
@@ -75,13 +75,6 @@ library-manager/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it.
-
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
