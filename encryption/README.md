@@ -4,7 +4,7 @@ A basic encryption/decryption tool using a randomly shuffled substitution cipher
 
 ---
 
-## 🔐 Features
+## Features
 
 - Randomized substitution cipher key
 - Supports letters, digits, punctuation, and whitespace
@@ -14,7 +14,7 @@ A basic encryption/decryption tool using a randomly shuffled substitution cipher
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the Repository
 
@@ -31,10 +31,10 @@ python cipher.py
 
 ---
 
-## 🖼️ Example Interaction
+## Example Interaction
 
 ```plaintext
-🔐 Welcome to the Simple Substitution Cipher
+Welcome to the Simple Substitution Cipher
 
 1. Encrypt a message
 2. Decrypt a message
@@ -54,7 +54,7 @@ Key used: &|VPGz... (store this key safely!)
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 substitution-cipher/
@@ -64,19 +64,13 @@ substitution-cipher/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project was inspired by and adapted from the [BroCode Python tutorials](https://www.youtube.com/c/BroCodez), which provide clear and practical guidance for beginner-level Python projects.
