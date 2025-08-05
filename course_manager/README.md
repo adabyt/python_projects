@@ -11,7 +11,7 @@ This is a beginner-to-intermediate level project that demonstrates use of Python
 
 ---
 
-## 🔧 Features
+## Features
 
 - CLI-based interactive menu
 - Stores multiple courses per student
@@ -21,7 +21,7 @@ This is a beginner-to-intermediate level project that demonstrates use of Python
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -36,7 +36,7 @@ python student_course_manager.py
 
 ---
 
-## 🖼️ Example Menu
+## Example Menu
 
 ```plaintext
 1. Add a student
@@ -48,14 +48,14 @@ python student_course_manager.py
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 student-course-manager/
@@ -65,13 +65,6 @@ student-course-manager/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it.
-
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
