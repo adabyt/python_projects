@@ -4,7 +4,7 @@ A simple countdown timer built in Python that displays time remaining in `HH:MM:
 
 ---
 
-## ⏱️ Features
+## Features
 
 - Accepts countdown duration in seconds
 - Displays live countdown in hours, minutes, and seconds
@@ -14,7 +14,7 @@ A simple countdown timer built in Python that displays time remaining in `HH:MM:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the Repository
 
@@ -31,10 +31,10 @@ python timer.py
 
 ---
 
-## 🖼️ Example Output
+## Example Output
 
 ```plaintext
-⏳ Welcome to the Countdown Timer
+Welcome to the Countdown Timer
 
 Enter the number of seconds to count down: 10
 
@@ -47,14 +47,14 @@ BEEP BEEP BEEP
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 countdown-timer/
@@ -64,19 +64,13 @@ countdown-timer/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project was inspired by and adapted from the [BroCode Python tutorials](https://www.youtube.com/c/BroCodez), which provided valuable guidance on beginner-level Python projects.
