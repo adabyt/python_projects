@@ -75,13 +75,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
-
----
-
 ## Acknowledgments
 
 This project was inspired by and adapted from the [BroCode Python tutorials](https://www.youtube.com/c/BroCodez), which provided valuable guidance on building CLI applications in Python.
