@@ -1,10 +1,10 @@
-# 🧠 Python CLI Projects Portfolio
+# Python CLI Projects Portfolio
 
 Welcome to my collection of beginner-to-intermediate Python command-line applications. Each project is designed to reinforce core programming concepts such as control flow, data structures, file I/O, and user input handling. These projects are written in pure Python and are ideal for learning, experimentation, and extension.
 
 ---
 
-## 📁 Projects
+## Projects
 
 | Project                      | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
@@ -26,20 +26,20 @@ Welcome to my collection of beginner-to-intermediate Python command-line applica
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 Some projects were inspired by [BroCode](https://www.youtube.com/@BroCodez)'s Python tutorial series and have been adapted for enhanced learning and functionality.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 
