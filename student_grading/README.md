@@ -11,7 +11,7 @@ The program includes input validation to ensure grades are numeric and between 0
 
 ---
 
-## 🔧 Features
+## Features
 
 - Add students with grades between 0 and 100
 - View all students and their grades
@@ -22,7 +22,7 @@ The program includes input validation to ensure grades are numeric and between 0
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -37,7 +37,7 @@ python student_grading.py
 
 ---
 
-## 🖼️ Example Menu
+## Example Menu
 
 ```plaintext
 1. Add a student
@@ -49,14 +49,14 @@ python student_grading.py
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 student-grading-system/
@@ -66,13 +66,6 @@ student-grading-system/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute it.
-
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
