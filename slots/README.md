@@ -4,7 +4,7 @@ A simple, fun slot machine simulation built in Python. This command-line game al
 
 ---
 
-## 🎰 Features
+## Features
 
 - Random emoji symbols for each spin (🍒, 🍉, 🍋, 🔔, ⭐)
 - Payout system based on symbol rarity
@@ -14,7 +14,7 @@ A simple, fun slot machine simulation built in Python. This command-line game al
 
 ---
 
-## 💸 Payouts
+## Payouts
 
 | Symbol | Match 3 Pays |
 |--------|--------------|
@@ -26,7 +26,7 @@ A simple, fun slot machine simulation built in Python. This command-line game al
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the repository
 
@@ -43,7 +43,7 @@ python slot_machine.py
 
 ---
 
-## 🖼️ Example Interaction
+## Example Interaction
 
 ```plaintext
 *************************
@@ -66,14 +66,14 @@ Would you like to play again? (Y/N): y
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 slot-machine-game/
@@ -83,19 +83,13 @@ slot-machine-game/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project was inspired by and adapted from the [BroCode Python tutorials](https://www.youtube.com/c/BroCodez), which provided valuable guidance on building engaging CLI applications in Python.
