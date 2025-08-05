@@ -4,7 +4,7 @@ A simple Python command-line program that simulates a movie theater concession s
 
 ---
 
-## 🍿 Features
+## Features
 
 - Displays a formatted menu with prices
 - Accepts user orders interactively
@@ -15,7 +15,7 @@ A simple Python command-line program that simulates a movie theater concession s
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the repository
 
@@ -32,7 +32,7 @@ python concession_stand.py
 
 ---
 
-## 🖼️ Example Output
+## Example Output
 
 ```plaintext
 -------- MENU --------
@@ -60,14 +60,14 @@ Order total: £10.00
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries required
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 concession-stand/
@@ -77,19 +77,13 @@ concession-stand/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-## 🙋‍♂️ Author
-
-**Amit Dipak Amin**  
-[LinkedIn](https://www.linkedin.com/in/amitdipakamin)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project was inspired by and adapted from the [BroCode Python tutorials](https://www.youtube.com/c/BroCodez), which provided helpful guidance on beginner Python CLI programs.
